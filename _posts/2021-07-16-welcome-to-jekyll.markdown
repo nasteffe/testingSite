@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Shards"
 date:   2021-07-16 22:03:49 +0300
 categories: jekyll update
