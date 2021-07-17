@@ -3,8 +3,6 @@ layout: single
 title:  "Shards"
 date:   2021-07-16 22:03:49 +0300
 categories: jekyll update
-header:
-  teaser: /assets/images/DEA02BF5-944C-4C49-8573-9B1438AE6F93_1_105_c.jpeg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
