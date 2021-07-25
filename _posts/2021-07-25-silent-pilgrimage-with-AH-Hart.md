@@ -1,5 +1,5 @@
 ---
-title: 
+title: Hart on Subversive Experience
 date: 2021-07-25
 ---
 
@@ -7,7 +7,7 @@ On David Armstrong's new YouTube channel, A Perennial Digression, he's done a be
 
 Hart offers some thoughts on the subversive character of direct/spiritual experience to the reigning power structures. If we are being extraordinarily charitable to the church and its leadership, direct experience of God would allow the individual Christian to remain alone in their discernment and vulnerable to maleficient spiritual beliefs (i.e. heresy) or forces. Hart recognizes as much when he encourages potential meditators to seek out wise guides to walk beside them through the process, providing preparation for and discernment of the experience itself. On the other hand, if we are being more critical of the the role of church authority, direct mystical experience outside of the sacramental spaces as defined by church authorities potentially represent a space for criticizing and even subverting authority. The church's stance has spanned this range, from a pastoral concern for individual's souls to near authoritarian attempts to stamp them out. 
 
-The personal experience of God, whether speaking of the Quietist movements in the 17th century, Hesychasts in the 14th, or Chan, as Hart discusses in the interview, direct experience of reality is seen as destabilizing and disturbing to the powers that be, which themselves wish to inscribe and ground their authority in that reality. To this end, the church lays out recommended devotional practices, like the rosary, which becomes "weaponized" insofar as it presents a licit, while carefully circumscribed, practice, preferred by the church itself. Hart sees within the rosary's mysteries, room for the kind of contemplation so often lacking in modern devotional practice and wrote (a book exploring these mysteries)[https://wipfandstock.com/9781725272323/silent-rosary/] using the iconography of Solrunn Nes.
+The personal experience of God, whether speaking of the Quietist movements in the 17th century, Hesychasts in the 14th, or Chan, as Hart discusses in the interview, direct experience of reality is seen as destabilizing and disturbing to the powers that be, which themselves wish to inscribe and ground their authority in that reality. To this end, the church lays out recommended devotional practices, like the rosary, which becomes "weaponized" insofar as it presents a licit, while carefully circumscribed, practice, preferred by the church itself. Hart sees within the rosary's mysteries, room for the kind of contemplation so often lacking in modern devotional practice and wrote [a book exploring these mysteries](https://wipfandstock.com/9781725272323/silent-rosary/) using the iconography of Solrunn Nes.
 
 Hart's emphasis on direct experience is what he sees in these meditative traditions (including the Evagrian tradition in the church fathers as well as Chan with its Taoist roots) are practices of presence that brings us to see ourselves and to make room for encountering God. He sees the teachings of Jesus as an outworking of this loving presence into the world, a pragmatic encounter that refuses to be theorized, to be contained within speculative thought.
 
@@ -16,7 +16,7 @@ What seems particularly interesting to me about this approach is that it brings 
 into a larger conversation about our ability to encounter ourselves, the world around us, and God. 
 
 ## Recommendations:
-Maggie Ross's user guide on silence)[https://www.amazon.com/gp/product/B00P6JK316].
+[Maggie Ross's user guide on silence](https://www.amazon.com/gp/product/B00P6JK316)
 
 
 ## To Do
